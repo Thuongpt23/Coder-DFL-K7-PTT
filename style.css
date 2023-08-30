@@ -1,0 +1,25 @@
+h2 {
+    color: aqua;
+    background-color: violet;
+}
+
+.the3 {
+    color: rgb(14, 151, 37);
+    border: 1px solid rgb(57, 53, 53);
+}
+
+#id1 {
+    color: rgb(36, 148, 122);
+    border: 1px solid rgb(8, 189, 96)
+}
+
+.click:active {
+    color: blue
+}
+
+.click:hover {
+    color: blueviolet
+}
+.click:active{
+    color:aqua
+}
