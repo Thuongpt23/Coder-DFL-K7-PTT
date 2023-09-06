@@ -1,0 +1,24 @@
+*{
+    background-image: url(https://th.bing.com/th/id/R.f218e4064c3cca1c562e56b10d7ad406?rik=mXu%2fRW5Q5D2N4Q&riu=http%3a%2f%2fwww.pixelstalk.net%2fwp-content%2fuploads%2f2016%2f04%2fBlue-simple-wallpaper-nackgrounds-download.jpg&ehk=cmjUMBBlPx2x0nW9TpdoxK88a%2bdHPljL7d7Gaxuur5A%3d&risl=&pid=ImgRaw&r=0);
+}
+.body{
+   text-align: center;
+}
+.icon{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+.avatar{
+    width: 230px;
+    border-radius: 20%;
+}
+.bottom{
+    border: 3px dashed rgb(75, 26, 234);
+    width: 150px;
+    color: aliceblue;
+}
+.title{
+    color: aliceblue;
+    background: none;
+}
